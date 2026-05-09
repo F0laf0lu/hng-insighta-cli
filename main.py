@@ -14,6 +14,5 @@ insighta.add_command(auth.whoami)
 insighta.add_command(profile)
 
 
-
 if __name__ == "__main__":
     insighta()
